@@ -1,0 +1,9 @@
+{
+  "id": "proxy",
+  "pass": {
+    "encrypted_data": "zGHU4TWOqF6cfRXOxrG0wHuGnoifCLI+y3+wV/V1G58=\n",
+    "iv": "kCkz27n8ENyYHAZCCuD44g==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}
