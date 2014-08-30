@@ -3,3 +3,4 @@
 data_bag_key
 vagrant-ssh.conf
 /vendor/bundle
+Vagrantfile
