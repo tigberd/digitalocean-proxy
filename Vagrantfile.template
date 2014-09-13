@@ -36,7 +36,7 @@ Vagrant.configure('2') do |config|
       adduser vagrant
       usermod -G wheel vagrant
       cp -r .ssh /home/vagrant/
-      chown vagrant:vagrant /home/vagrant/.ssh/
+      chown -R vagrant:vagrant /home/vagrant/.ssh/
     EOT
   end
 end
